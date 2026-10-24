@@ -1,7 +1,7 @@
-# Dailynox - Media and Information Literacy Learning Operating System
+﻿# Dailynox - Media and Information Literacy Learning Operating System
 
 > UNESCO Media and Information Literacy (MIL) Framework Implementation
-> Authors: Nguyen Huynh Dang Nhut (@nhutnhd) & CodliRo
+> Authors: Nguyen Huynh Dang Nhut (@nhdnhut) & CodliRo
 > Architecture: Client-Side Single Page Application (HTML5, CSS3, Vanilla JavaScript)
 
 [![Framework](https://img.shields.io/badge/Pedagogy-UNESCO_MIL_Framework-0077B5?style=flat-square)](https://en.unesco.org/themes/media-and-information-literacy)
@@ -53,7 +53,7 @@ dailynox/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nhutnhd/dailynox.git
+   git clone https://github.com/nhdnhut/dailynox.git
    cd dailynox
    ```
 
@@ -64,5 +64,6 @@ dailynox/
 
 ## 5. License & Attribution
 
-This project is licensed under the MIT License. Copyright (c) 2025-2026 CodliRo & Nguyen Huynh Dang Nhut (@nhutnhd).  
-For essay context and development logbooks, see [nhutnhd.github.io](https://nhutnhd.github.io).
+This project is licensed under the MIT License. Copyright (c) 2025-2026 CodliRo & Nguyen Huynh Dang Nhut (@nhdnhut).  
+For essay context and development logbooks, see [nhdnhut.github.io](https://nhdnhut.github.io).
+
