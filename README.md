@@ -1,4 +1,4 @@
-﻿# Dailynox - Media and Information Literacy Learning Operating System
+# Dailynox - Media and Information Literacy Learning Operating System
 
 > UNESCO Media and Information Literacy (MIL) Framework Implementation
 > Authors: Nguyen Huynh Dang Nhut (@nhdnhut) & CodliRo
