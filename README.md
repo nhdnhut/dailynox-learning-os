@@ -1,193 +1,68 @@
-# 🎓 Dailynox — MIL-First Learning Platform
+# Dailynox - Media and Information Literacy Learning Operating System
 
-**UNESCO Media and Information Literacy Framework Implementation**
+> UNESCO Media and Information Literacy (MIL) Framework Implementation
+> Authors: Nguyen Huynh Dang Nhut (@nhutnhd) & CodliRo
+> Architecture: Client-Side Single Page Application (HTML5, CSS3, Vanilla JavaScript)
 
-Dailynox is a comprehensive learning platform designed around the UNESCO Media and Information Literacy (MIL) framework, helping students develop critical thinking skills, evaluate information credibility, and become ethical digital citizens.
-
-## 🎯 Core Features
-
-### **MIL Core Engine — 5 Pillars**
-
-1. **Access** — Find & Retrieve Information
-   - Source Hub with multi-format input
-   - Advanced search and organization
-   - Cross-source research tools
-
-2. **Evaluate** — Verify & Assess Credibility
-   - Automatic source analysis
-   - Bias detection
-   - Credibility scoring
-   - Fact-checking workflows
-   - Disinformation pattern library
-
-3. **Create** — Produce Responsible Content
-   - Rich note editor
-   - Ethical reminder system
-   - Citation builder
-   - Plagiarism awareness
-
-4. **Reflect** — Critical Self-Awareness
-   - Guided journal with AI prompts
-   - Learning reflection questions
-   - Opinion tracking
-   - Confidence assessment
-
-5. **Act** — Ethical Digital Citizenship
-   - Community peer review
-   - Fact-check collaboration
-   - Misinformation reporting
-   - Community trust metrics
-
-## 📦 14 Integrated Modules
-
-### Learning & Productivity
-- **Dashboard** — Overview of learning progress
-- **Source Hub** — Evaluate & verify information sources
-- **Notes Workspace** — Create responsible content
-- **Journal** — Reflect on learning journey
-- **Flashcards** — Spaced repetition system
-- **Focus Mode** — Pomodoro, Flowtime, Deep Work timers
-- **Planner** — Task management & calendar
-- **Library** — Organize books, PDFs, courses
-
-### AI & Analytics
-- **AI Assistant** — Tutor, Researcher, Fact-Checker, Writing Coach
-- **Analytics** — Track MIL competency growth
-
-### Community & Support
-- **Community** — Peer review & fact-checking
-- **File Manager** — Upload, organize, share files
-- **Settings** — Customization & privacy
-- **Help** — Onboarding & tutorials
-
-## 🎨 Design System
-
-### Typography
-- **Primary Font:** Fraunces (serif)
-- Elegant, readable, academic feel
-- Minimalist aesthetic
-
-### Color Palette
-- **Primary:** #F5EFE7 (Warm Beige)
-- **Secondary:** #FEFDFB (Off-White)
-- **Accent:** #8B7355 (Natural Brown)
-- **Success:** #7FB069 (Sage Green)
-- **Warning:** #E8AB53 (Warm Amber)
-- **Danger:** #D97454 (Coral Red)
-
-### UX Principles
-- Clean, uncluttered interface
-- Light, breathing layouts
-- Smooth transitions (150ms-500ms)
-- Mobile-responsive design
-- Accessibility-focused
-
-## 🚀 Getting Started
-
-### Installation
-```bash
-git clone https://github.com/CodliRo/dailynox.git
-cd dailynox
-open index.html
-```
-
-### Folder Structure
-```
-dailynox/
-├── index.html          # Main HTML structure
-├── styles.css          # Design system & layouts
-├── app.js              # Core application logic
-├── README.md           # This file
-└── docs/
-    ├── MIL_Framework.md
-    ├── Architecture.md
-    └── API_Reference.md
-```
-
-## 🎓 UNESCO MIL Framework
-
-Dailynox implements the 5 Laws of Media and Information Literacy:
-
-1. **Fundamental Right** — Information, communication, and media literacy are fundamental human rights
-2. **Universal Value** — All citizens have equal value regardless of their media consumption patterns
-3. Non-Neutrality — All information, media, and communication are not neutral
-4. **Interconnected** — MIL is an interconnected competency, not isolated skills
-5. **Lifelong Learning** — MIL is a process of lifelong learning
-
-**SDG Alignment:** SDG 4 (Quality Education) & SDG 16 (Peace & Justice)
-
-## 📊 MIL Competency Tracking
-
-Dailynox tracks your progress across the 5 MIL pillars:
-- **Access:** 85% — Finding quality sources
-- **Evaluate:** 72% — Critical assessment skills
-- **Create:** 68% — Responsible content creation
-- **Reflect:** 79% — Self-awareness & reflection
-- **Act:** 75% — Ethical digital citizenship
-
-Overall MIL Score: 75% ✓
-
-## 🔒 Privacy & Data Ethics
-
-- **Data Minimization** — Only collect necessary data
-- **User Consent** — Explicit opt-in for features
-- **Right to Delete** — Export or permanently remove your data
-- **Transparency** — Clear disclosure of AI usage
-- **No Commercial Use** — Your learning data is not sold
-
-## 🤖 AI Transparency
-
-All AI features in Dailynox include:
-- Clear disclosure that AI is being used
-- Limitations of AI responses
-- Encouragement to verify independently
-- Educational purpose framing
-- Alignment with ethical AI principles
-
-## 🎯 Roadmap
-
-### v1.0 (Current)
-- ✅ Core 14 modules
-- ✅ MIL framework integration
-- ✅ Minimalist design system
-- ✅ Spaced repetition system
-- ✅ Focus timer modes
-
-### v1.1 (Q3 2024)
-- 🚧 AI Integration (GPT-powered features)
-- 🚧 Source verification API
-- 🚧 Community leaderboard
-- 🚧 Mobile app (React Native)
-
-### v2.0 (Q4 2024)
-- 🚧 Real-time collaboration
-- 🚧 Advanced analytics dashboard
-- 🚧 Teacher/Student modes
-- 🚧 Classroom management
-
-## 🤝 Contributing
-
-Contributions aligned with MIL principles are welcome!
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-MIT License — See LICENSE file for details
-
-## 📞 Support
-
-- **Documentation:** `/docs`
-- **Issues:** GitHub Issues
-- **Contact:** support@dailynox.edu
-- **UNESCO MIL Resources:** https://en.unesco.org/themes/media-and-information-literacy
+[![Framework](https://img.shields.io/badge/Pedagogy-UNESCO_MIL_Framework-0077B5?style=flat-square)](https://en.unesco.org/themes/media-and-information-literacy)
+[![Frontend](https://img.shields.io/badge/Architecture-Vanilla_JS_ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
 ---
 
-**Built with ❤️ for lifelong learners and critical thinkers**
+## 1. Overview
 
-*"A citizen who learns to think critically about media, information, and communication is empowered to understand their world and make informed decisions."* — UNESCO
+Dailynox is an educational operating system and digital learning workspace constructed around the UNESCO Media and Information Literacy (MIL) standard. It is engineered to help students cultivate critical evaluation competencies, verify information authenticity, cross-examine digital sources, and practice responsible digital scholarship.
+
+### The 5 Core MIL Pillars
+
+1. Access: Find, retrieve, and organize multi-format learning sources through an integrated Source Hub.
+2. Evaluate: Structured workflows for bias detection, credibility scoring, and misinformation pattern inspection.
+3. Create: Rich text notes workspace equipped with citation building, ethical authorship reminders, and plagiarism mitigation checklists.
+4. Reflect: Guided journaling engine with reflective meta-cognition prompts and learning trajectory tracking.
+5. Act: Collaborative peer review, fact-checking workflows, and community verification protocols.
+
+---
+
+## 2. Integrated Functional Modules
+
+- Dashboard: Centralized progress overview, active streaks, and cognitive competency metrics.
+- Source Hub: Multi-channel repository for categorizing and evaluating external academic references.
+- Notes & Knowledge Workspace: Distraction-free composition environment with markdown-like syntax support.
+- Reflective Journal: Daily meta-cognitive prompt engine for documenting conceptual breakthroughs.
+- Spaced Repetition Flashcards: Leitner-box review system for persistent long-term knowledge retention.
+- Focus Timer Engine: Configurable Pomodoro, Flowtime, and Deep Work intervals.
+- Academic Planner: Time-blocked scheduling, milestone tracking, and task priority queues.
+
+---
+
+## 3. Directory Layout
+
+```text
+dailynox/
+|-- index.html          # Semantic HTML5 layout and module views
+|-- styles.css          # Typography design system, color palettes, and responsive grid
+|-- app.js              # State machine, storage controller, and view router
+|-- LICENSE             # MIT License
+`-- README.md           # System documentation
+```
+
+---
+
+## 4. Quickstart Guide
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nhutnhd/dailynox.git
+   cd dailynox
+   ```
+
+2. Launch in your browser:
+   Open `index.html` directly in any standards-compliant browser (Chrome, Firefox, Safari, Edge).
+
+---
+
+## 5. License & Attribution
+
+This project is licensed under the MIT License. Copyright (c) 2025-2026 CodliRo & Nguyen Huynh Dang Nhut (@nhutnhd).  
+For essay context and development logbooks, see [nhutnhd.github.io](https://nhutnhd.github.io).
